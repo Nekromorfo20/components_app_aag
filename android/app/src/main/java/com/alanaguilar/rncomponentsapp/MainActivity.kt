@@ -1,4 +1,4 @@
-package com.componentsapp
+package com.alanaguilar.rncomponentsapp
 
 import android.os.Bundle
 import com.swmansion.rnscreens.fragment.restoration.RNScreensFragmentFactory
